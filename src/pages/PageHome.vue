@@ -12,7 +12,7 @@
                         Siedler
                         III und IV und die Formel zu einem Aufbauspiel-RTS-Hybriden perfektionieren. Zurück zu den alten
                         Prinzipien mit Fokus auf den Multiplayer um den Genre des „Siedler-Like“ wiederzubeleben.</p>
-                    <a class="btn btn-primary" href="https://discord.gg/pUur4t7aBb" target="_blank">
+                    <a class="btn btn-primary normal-case" href="https://discord.gg/pUur4t7aBb" target="_blank">
                         <span>Tritt unserem Discord bei</span>
                         <IconDiscord />
                     </a>
