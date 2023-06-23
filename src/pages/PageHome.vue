@@ -76,19 +76,12 @@
             </div>
         </div>
 
-        <div class="relative">
-            <div class="custom-shape-divider-top fill-base-200">
-                <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" height="10" width="100%">
-                    <path d="M0,0V6c0,21.6,291,111.46,741,110.26,445.39,3.6,459-88.3,459-110.26V0Z" class="shape-fill"></path>
-                </svg>
-            </div>
-            <div class="bg-base-300 grid justify-center py-20 gap-4 text-center">
-                <h1 class="text-2xl">Erhalte laufend Neuigkeiten zum Spiel</h1>
-                <div>
-                    <div class="join">
-                        <input class="input input-bordered join-item input-accent" placeholder="Email" />
-                        <button class="btn join-item rounded-r-full btn-accent">Subscribe</button>
-                    </div>
+        <div class="bg-base-300 grid justify-center py-20 gap-4 text-center">
+            <h1 class="text-2xl">Erhalte laufend Neuigkeiten zum Spiel</h1>
+            <div>
+                <div class="join">
+                    <input class="input input-bordered join-item input-accent" placeholder="Email" />
+                    <button class="btn join-item rounded-r-full btn-accent">Subscribe</button>
                 </div>
             </div>
         </div>
