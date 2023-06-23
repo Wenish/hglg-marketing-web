@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-4xl mx-auto p-4 prose text-justify">
+    <div class="max-w-4xl mx-auto p-4 prose text-justify2">
         <h1>Datenschutzerklärung</h1>
         <h2>1. Datenschutz auf einen Blick</h2>
         <h3>Allgemeine Hinweise</h3>

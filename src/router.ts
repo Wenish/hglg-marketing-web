@@ -12,6 +12,26 @@ const routes: readonly RouteRecordRaw[] = [
         ],
     },
     {
+        path: '/news',
+        component: () => import('./layouts/LayoutBasic.vue'),
+        children: [
+            {
+                path: '',
+                component: () => import('./pages/PageNews.vue'),
+            }
+        ],
+    },
+    {
+        path: '/faq',
+        component: () => import('./layouts/LayoutBasic.vue'),
+        children: [
+            {
+                path: '',
+                component: () => import('./pages/PageFaq.vue'),
+            }
+        ],
+    },
+    {
         path: '/about-us',
         component: () => import('./layouts/LayoutBasic.vue'),
         children: [
