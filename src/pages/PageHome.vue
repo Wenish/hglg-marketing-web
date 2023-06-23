@@ -26,7 +26,8 @@
                 <img src="../assets/woodcutter.jpg" class="max-w-sm rounded-lg shadow-2xl" />
                 <div>
                     <h1 class="text-5xl font-bold pb-4">Konzeptart Holzfäller</h1>
-                    <p class="text-xl">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                    <p class="text-xl">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
+                        Ipsum has been the
                         industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
                         and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
                         leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s
@@ -43,6 +44,16 @@
                     <h1 class="text-5xl font-bold pb-4">Konzeptart Steinmetz</h1>
                     <p class="text-xl">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
                         exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-base-300 grid justify-center py-20 gap-4 text-center">
+            <h1 class="text-2xl">Erhalte laufend Neuigkeiten zum Spiel</h1>
+            <div>
+                <div class="join">
+                    <input class="input input-bordered join-item input-accent" placeholder="Email" />
+                    <button class="btn join-item rounded-r-full btn-accent">Subscribe</button>
                 </div>
             </div>
         </div>
