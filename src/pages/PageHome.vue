@@ -1,6 +1,5 @@
 <template>
     <div>
-
         <div class="hero bg-base-200 py-20">
             <div class="hero-content flex-col lg:flex-row gap-10">
                 <img src="../assets/soldat.png" class="max-w-sm rounded-lg -scale-x-100 h-96 w-full object-contain" />
