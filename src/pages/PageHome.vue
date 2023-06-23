@@ -39,7 +39,7 @@
                 <div class="hero-content flex-col lg:flex-row-reverse gap-10">
                     <img src="../assets/woodcutter.jpg" class="max-w-sm rounded-lg shadow-2xl" />
                     <div>
-                        <h1 class="text-5xl font-bold pb-4">Konzeptart Holzfäller</h1>
+                        <h2 class="text-5xl font-bold pb-4">Konzeptart Holzfäller</h2>
                         <p class="text-xl">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                             Ipsum has been the
                             industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of
@@ -68,7 +68,7 @@
                 <div class="hero-content flex-col lg:flex-row gap-10">
                     <img src="../assets/stonemason.jpg" class="max-w-sm rounded-lg shadow-2xl" />
                     <div>
-                        <h1 class="text-5xl font-bold pb-4">Konzeptart Steinmetz</h1>
+                        <h2 class="text-5xl font-bold pb-4">Konzeptart Steinmetz</h2>
                         <p class="text-xl">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
                             exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                     </div>
@@ -77,7 +77,7 @@
         </div>
 
         <div class="bg-base-300 grid justify-center py-20 gap-4 text-center">
-            <h1 class="text-2xl">Erhalte laufend Neuigkeiten zum Spiel</h1>
+            <h2 class="text-2xl">Erhalte laufend Neuigkeiten zum Spiel</h2>
             <div>
                 <div class="join">
                     <input class="input input-bordered join-item input-accent" placeholder="Email" />
