@@ -76,7 +76,7 @@
             </div>
         </div>
 
-        <div class="bg-base-300 grid justify-center py-20 gap-4 text-center">
+        <div class="bg-base-200 grid justify-center py-20 gap-4 text-center">
             <h2 class="text-2xl">Erhalte laufend Neuigkeiten zum Spiel</h2>
             <div>
                 <div class="join">
