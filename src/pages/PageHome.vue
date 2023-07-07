@@ -2,7 +2,7 @@
     <div>
         <div class="hero bg-base-200 py-20">
             <div class="hero-content flex-col lg:flex-row gap-10">
-                <img src="../assets/soldat.png" class="max-w-sm rounded-lg -scale-x-100 h-96 w-full object-contain" />
+                <img src="../assets/soldat.png" class="max-w-full sm:max-w-sm rounded-lg -scale-x-100 h-96 w-full object-contain" />
                 <div>
                     <h1 class="text-5xl font-bold pb-4">Projekt HGLG</h1>
                     <p class="text-xl pb-2">Ein geistiger Nachfolger der „Die Siedler“ – Reihe von Blue Byte und Ubisoft,
@@ -37,7 +37,7 @@
             </div>
             <div class="hero bg-base-100 py-20">
                 <div class="hero-content flex-col lg:flex-row-reverse gap-10">
-                    <img src="../assets/woodcutter.jpg" class="max-w-sm rounded-lg shadow-2xl" />
+                    <img src="../assets/woodcutter.jpg" class="max-w-full sm:max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h2 class="text-5xl font-bold pb-4">Konzeptart Holzfäller</h2>
                         <p class="text-xl">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
@@ -66,7 +66,7 @@
             </div>
             <div class="hero bg-base-200 py-20">
                 <div class="hero-content flex-col lg:flex-row gap-10">
-                    <img src="../assets/stonemason.jpg" class="max-w-sm rounded-lg shadow-2xl" />
+                    <img src="../assets/stonemason.jpg" class="max-w-full sm:max-w-sm rounded-lg shadow-2xl" />
                     <div>
                         <h2 class="text-5xl font-bold pb-4">Konzeptart Steinmetz</h2>
                         <p class="text-xl">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
